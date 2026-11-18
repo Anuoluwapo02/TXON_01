@@ -1,0 +1,14 @@
+
+{
+  "name": "txon-task-1",
+  "version": "1.0.0",
+  "description": "Simple Portfolio with Express Message Handler",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
